@@ -1,5 +1,5 @@
 package com.goods.pojo;
-
+//这是实体类
 public class Goods {
     private Integer id;
     private String name;
