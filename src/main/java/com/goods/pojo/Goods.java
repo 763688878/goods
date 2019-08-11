@@ -2,7 +2,7 @@ package com.goods.pojo;
 
 public class Goods {
     private Integer id;//asda
-    private String name;
+    private String name;//1.0
     private double price;
 
     public Integer getId() {
