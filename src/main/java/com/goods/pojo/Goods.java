@@ -5,6 +5,8 @@ public class Goods {
     private String name;
     private double price;
 
+    private Integer i;
+
     public Integer getId() {
         return id;
     }
